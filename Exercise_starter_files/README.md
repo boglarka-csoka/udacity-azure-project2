@@ -1,6 +1,7 @@
 
 **Overview of the project**<br><br>
-For this project I used a bank marketing dataset. The task was classification. First I run AutoML to find the best performing model.
+For this project I used a bank marketing dataset. The task was classification. First, I run AutoML to find the best performing model.
+The result was VotingEnsemble. Then deployed this model and create a pipeline to.
 
 
 **Architectural diagram**<br><br>
