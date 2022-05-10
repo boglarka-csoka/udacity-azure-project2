@@ -12,12 +12,9 @@ For this project I used a bank marketing dataset. The task was classification. F
 * Registered dataset <br>
 ![Registered-Datasets](https://user-images.githubusercontent.com/104906755/167637481-600192c5-bd42-43f6-bb7b-d01ec4e0db60.png)
 <br>
-* Completed AutoML run <br>
 
-<br>
-
-* Selected best model <br>
-
+* Completed AutoML run and the selected best model <br>
+![AutoML_completed](https://user-images.githubusercontent.com/104906755/167639427-b79a4148-6901-4c8b-986f-57b02f303b94.png)
 <br>
 
 * Application insights is enabled <br>
@@ -29,6 +26,30 @@ For this project I used a bank marketing dataset. The task was classification. F
 <br>
 
 * Swagger <br>
+
+<br>
+
+* Pipeline has been created <br>
+
+<br>
+
+* Pipeline endpoint <br>
+
+<br>
+
+* Bankmarketing dataset with AutoML <br>
+
+<br>
+
+* Published pipeline overview <br>
+
+<br>
+
+* Jupyter notebook RunDetails widget <br>
+
+<br>
+
+* Scheduled run <br>
 
 <br>
 
